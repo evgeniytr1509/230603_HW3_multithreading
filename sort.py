@@ -42,6 +42,6 @@ class FileSorter:
         # Восстановление состояния объекта после десериализации
         self.__dict__ = state
 
-#@3
+#@3fasdfasdfasdf
 file_sorter = FileSorter()
 file_sorter.process_directory()
